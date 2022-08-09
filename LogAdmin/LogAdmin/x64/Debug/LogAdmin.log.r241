@@ -1,0 +1,64 @@
+﻿  LogAdminDlg.cpp
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logadmindlg.cpp(233): warning C4552: '|': operator has no effect; expected operator with side-effect
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logadmindlg.cpp(544): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logadmindlg.cpp(548): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logadmindlg.cpp(552): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logadmindlg.cpp(556): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logadmindlg.cpp(560): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logadmindlg.cpp(564): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logadmindlg.cpp(568): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logadmindlg.cpp(688): warning C4244: 'argument': conversion from 'DWORD_PTR' to 'int', possible loss of data
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logadmindlg.cpp(1068): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Version.cpp
+  Tool.cpp
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\tool.cpp(146): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\tool.cpp(173): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+  ProcSetting.cpp
+  LogSaveSet.cpp
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logsaveset.cpp(193): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logsaveset.cpp(204): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logsaveset.cpp(209): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logsaveset.cpp(214): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logsaveset.cpp(219): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logsaveset.cpp(224): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logsaveset.cpp(229): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logsaveset.cpp(234): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\logsaveset.cpp(277): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  LogGraph.cpp
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\loggraph.cpp(313): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\loggraph.cpp(403): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\loggraph.cpp(406): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\loggraph.cpp(409): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  LogFileChoose.cpp
+  LogAdmin.cpp
+  Log.cpp
+  ListenSocket.cpp
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\listensocket.cpp(28): warning C4311: 'type cast': pointer truncation from 'POSITION' to 'int'
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\listensocket.cpp(28): warning C4302: 'type cast': truncation from 'POSITION' to 'int'
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\listensocket.cpp(30): warning C4311: 'type cast': pointer truncation from 'POSITION' to 'int'
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\listensocket.cpp(30): warning C4302: 'type cast': truncation from 'POSITION' to 'int'
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\listensocket.cpp(57): warning C4311: 'type cast': pointer truncation from 'POSITION' to 'int'
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\listensocket.cpp(57): warning C4302: 'type cast': truncation from 'POSITION' to 'int'
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\listensocket.cpp(97): warning C4101: 'posNum': unreferenced local variable
+  DeleteTool.cpp
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\deletetool.cpp(126): warning C4101: 'm_avail': unreferenced local variable
+  DeleteFile.cpp
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\deletefile.cpp(95): warning C4552: '-': operator has no effect; expected operator with side-effect
+  ClientSocket.cpp
+  AutoDel.cpp
+  AddGraph.cpp
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\addgraph.cpp(331): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\addgraph.cpp(423): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\addgraph.cpp(426): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\bit\documents\hbt\logadmin(graph)\logadmin\addgraph.cpp(429): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating Code...
+  LogAdmin.vcxproj -> C:\Users\BIT\Documents\hbt\LogAdmin(graph)\x64\Debug\LogAdmin.exe
+  LogAdmin.vcxproj -> C:\Users\BIT\Documents\hbt\LogAdmin(graph)\x64\Debug\LogAdmin.pdb (Partial PDB)

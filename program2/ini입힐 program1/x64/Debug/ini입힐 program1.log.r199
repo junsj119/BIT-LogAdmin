@@ -1,0 +1,498 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ini입힐 program1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Client.cpp
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(3): warning C4190: 'ConnectServer' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(4): warning C4190: 'ProgramServer1Start' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(5): warning C4190: 'ProgramServer2Start' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(6): warning C4190: 'Server1Connect' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(7): warning C4190: 'Server2Connect' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(8): warning C4190: 'Program2Start' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(9): warning C4190: 'ImageLoad' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(10): warning C4190: 'Exit' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(11): warning C4190: 'Exit1' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(12): warning C4190: 'Warning' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(13): warning C4190: 'Coordinates' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(14): warning C4190: 'CenteringWarning' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(15): warning C4190: 'Detection' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(16): warning C4190: 'ImageWarning' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(17): warning C4190: 'Coordinates1' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(18): warning C4190: 'Normal' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(19): warning C4190: 'OutScratchStop' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(20): warning C4190: 'CenteringStop' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(21): warning C4190: 'Success1' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(22): warning C4190: 'Warning1' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(23): warning C4190: 'OutScratchStart' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(24): warning C4190: 'OutScratchReStart' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(25): warning C4190: 'CenteringReStart' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(26): warning C4190: 'CenteringStart' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\client.cpp(306): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Server.cpp
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(3): warning C4190: 'ConnectServer' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(4): warning C4190: 'ProgramServer1Start' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(5): warning C4190: 'ProgramServer2Start' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(6): warning C4190: 'Server1Connect' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(7): warning C4190: 'Server2Connect' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(8): warning C4190: 'Program2Start' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(9): warning C4190: 'ImageLoad' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(10): warning C4190: 'Exit' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(11): warning C4190: 'Exit1' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(12): warning C4190: 'Warning' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(13): warning C4190: 'Coordinates' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(14): warning C4190: 'CenteringWarning' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(15): warning C4190: 'Detection' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(16): warning C4190: 'ImageWarning' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(17): warning C4190: 'Coordinates1' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(18): warning C4190: 'Normal' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(19): warning C4190: 'OutScratchStop' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(20): warning C4190: 'CenteringStop' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(21): warning C4190: 'Success1' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(22): warning C4190: 'Warning1' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(23): warning C4190: 'OutScratchStart' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(24): warning C4190: 'OutScratchReStart' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(25): warning C4190: 'CenteringReStart' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\logdll.h(26): warning C4190: 'CenteringStart' has C-linkage specified, but returns UDT 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>' which is incompatible with C
+          with
+          [
+              _CharType=char
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxstr.h(87): note: see declaration of 'ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<_CharType>>>'
+          with
+          [
+              _CharType=char
+          ]
+c:\users\bit\documents\hbt\program2\ini입힐 program1\server.cpp(474): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bit\documents\hbt\program2\ini입힐 program1\server.cpp(565): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\bit\documents\hbt\program2\ini입힐 program1\server.cpp(568): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\bit\documents\hbt\program2\ini입힐 program1\server.cpp(571): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating Code...
+  ini입힐 program1.vcxproj -> C:\Users\BIT\Documents\hbt\Program2\x64\Debug\Program2.exe
+  ini입힐 program1.vcxproj -> C:\Users\BIT\Documents\hbt\Program2\x64\Debug\Program2.pdb (Partial PDB)
+          1개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
